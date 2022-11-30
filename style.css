@@ -1,27 +1,19 @@
-a {
+.logo {
     list-style-type: none;
     position: absolute;
-    width: 145px;
-    height: 31px;
-    left: 215px;
-    top: 24px;
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 31px;
     letter-spacing: 0.03em;
+    color: black;
+}
+.web {
     color: #2196F3;
 }
-.item {
+#item {
     list-style-type: none;
-    position: absolute;
-    width: 45px;
-    height: 16px;
-    left: 453px;
-    top: 32px;
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
@@ -29,70 +21,31 @@ a {
 }
 .text {
     list-style-type: none;
-    position: absolute;
-    width: 72px;
-    height: 16px;
-    left: 552px;
-    top: 32px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 0.02em;
 }
 .enter {
     list-style-type: none;
-    position: absolute;
-    width: 64px;
-    height: 16px;
-    left: 679px;
-    top: 32px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 0.02em;
 }
 .email {
     list-style-type: none;
-    position: absolute;
-    width: 135px;
-    height: 16px;
-    left: 1078px;
-    top: 32px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 0.02em;
 }
 .number {
     list-style-type: none;
-    position: absolute;
-    width: 122px;
-    height: 16px;
-    left: 1263px;
-    top: 32px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    letter-spacing: 0.02em;
     color: #757575;
 }
 h1 {
     list-style-type: none;
-    position: absolute;
-    width: 696px;
-    height: 120px;
-    left: 452px;
-    top: 280px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
@@ -102,13 +55,6 @@ h1 {
     color: #FFFFFF;
 }
 button {
-    position: absolute;
-    width: 152px;
-    height: 30px;
-    left: 724px;
-    top: 440px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 30px;
@@ -120,13 +66,6 @@ button {
 }
 .details {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 16px;
-    left: 215px;
-    top: 774px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -135,13 +74,6 @@ button {
 }
 #lorem {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 75px;
-    left: 215px;
-    top: 800px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -150,13 +82,6 @@ button {
 }
 .punctuality {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 16px;
-    left: 515px;
-    top: 774px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -166,13 +91,6 @@ button {
 }
 #ipsum {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 75px;
-    left: 515px;
-    top: 800px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -181,28 +99,14 @@ button {
 }
 .planning {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 16px;
-    left: 815px;
-    top: 774px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-#dolor {
+.dolor {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 75px;
-    left: 815px;
-    top: 800px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -211,28 +115,14 @@ button {
 }
 .technologies {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 16px;
-    left: 1116px;
-    top: 774px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-#sit {
+.sit {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 75px;
-    left: 1115px;
-    top: 800px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -241,13 +131,6 @@ button {
 }
 h4 {
     list-style-type: none;
-    position: absolute;
-    width: 366px;
-    height: 42px;
-    left: 617px;
-    top: 969px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -257,37 +140,15 @@ h4 {
 }
 .photo1 {
     list-style-type: none;
-    position: absolute;
-    width: 370px;
-    height: 294px;
-    left: 215px;
-    top: 1061px;
 }
 .photo2 {
     list-style-type: none;
-    position: absolute;
-    width: 370px;
-    height: 294px;
-    left: 615px;
-    top: 1061px;    
 }
 .photo3 {
     list-style-type: none;
-    position: absolute;
-    width: 370px;
-    height: 294px;
-    left: 1015px;
-    top: 1061px;
 }
 h2 {
     list-style-type: none;
-    position: absolute;
-    width: 264px;
-    height: 42px;
-    left: 668px;
-    top: 1543px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -296,45 +157,19 @@ h2 {
 }
 .person1 {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 260px;
-    left: 215px;
-    top: 1635px;
 }
 .person2{
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 260px;
-    left: 515px;
-    top: 1635px;
 }
 .person3 {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 260px;
-    left: 815px;
-    top: 1635px;    
 }
 .person4 {
     list-style-type: none;
-    position: absolute;
-    width: 270px;
-    height: 260px;
-    left: 1115px;
-    top: 1635px;
 }
-#logo {
+.logoweb {
     list-style-type: none;
-    position: absolute;
-    width: 145px;
-    height: 31px;
-    left: 265px;
-    top: 2168px;
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 31px;
@@ -343,13 +178,6 @@ h2 {
 }
 .place {
     list-style-type: none;
-    position: absolute;
-    width: 231px;
-    height: 21px;
-    left: 265px;
-    top: 2219px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -357,13 +185,6 @@ h2 {
 }
 .email1 {
     list-style-type: none;
-    position: absolute;
-    width: 231px;
-    height: 21px;
-    left: 265px;
-    top: 2249px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -372,13 +193,6 @@ h2 {
 }
 .number1 {
     list-style-type: none;
-    position: absolute;
-    width: 231px;
-    height: 21px;
-    left: 265px;
-    top: 2279px;
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
