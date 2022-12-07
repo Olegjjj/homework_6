@@ -1,6 +1,8 @@
-.logo {
+body {
     list-style-type: none;
-    position: absolute;
+    font-family: 'Roboto';
+}
+.logo {
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
@@ -12,40 +14,33 @@
     color: #2196F3;
 }
 #item {
-    list-style-type: none;
-    font-family: 'Roboto';
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
 }
 .text {
-    list-style-type: none;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
 }
 .enter {
-    list-style-type: none;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
 }
 .email {
-    list-style-type: none;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
 }
 .number {
-    list-style-type: none;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     color: #757575;
 }
 h1 {
-    list-style-type: none;
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
@@ -65,7 +60,6 @@ button {
     color: #FFFFFF;
 }
 .details {
-    list-style-type: none;
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -73,7 +67,6 @@ button {
     text-transform: uppercase;
 }
 #lorem {
-    list-style-type: none;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -81,7 +74,6 @@ button {
     color: #757575;    
 }
 .punctuality {
-    list-style-type: none;
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -90,7 +82,6 @@ button {
     color: #212121;
 }
 #ipsum {
-    list-style-type: none;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -98,7 +89,6 @@ button {
     color: #757575;
 }
 .planning {
-    list-style-type: none;
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -106,7 +96,6 @@ button {
     text-transform: uppercase;
 }
 .dolor {
-    list-style-type: none;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -114,7 +103,6 @@ button {
     color: #757575;
 }
 .technologies {
-    list-style-type: none;
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -122,7 +110,6 @@ button {
     text-transform: uppercase;
 }
 .sit {
-    list-style-type: none;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -130,7 +117,6 @@ button {
     color: #757575;
 }
 h4 {
-    list-style-type: none;
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -138,37 +124,14 @@ h4 {
     letter-spacing: 0.03em;
     color: #212121;
 }
-.photo1 {
-    list-style-type: none;
-}
-.photo2 {
-    list-style-type: none;
-}
-.photo3 {
-    list-style-type: none;
-}
 h2 {
-    list-style-type: none;
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
     text-align: center;
     letter-spacing: 0.03em;
 }
-.person1 {
-    list-style-type: none;
-}
-.person2{
-    list-style-type: none;
-}
-.person3 {
-    list-style-type: none;
-}
-.person4 {
-    list-style-type: none;
-}
 .logoweb {
-    list-style-type: none;
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
@@ -177,14 +140,12 @@ h2 {
     color: #2196F3;    
 }
 .place {
-    list-style-type: none;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.03em;
 }
 .email1 {
-    list-style-type: none;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -192,7 +153,6 @@ h2 {
     color: rgba(255, 255, 255, 0.6);    
 }
 .number1 {
-    list-style-type: none;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
